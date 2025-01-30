@@ -1,6 +1,6 @@
 # Basic HTML Portfolio 
 
-[Click here to visit my website]([http://example.com](https://nrjbrown.github.io/html-portfolio/))
+[Click here for NevDev HTML's Portfolio]([http://example.com](https://nrjbrown.github.io/html-portfolio/))
 
 ## Table of Contents
 - [Introduction](#introduction)
